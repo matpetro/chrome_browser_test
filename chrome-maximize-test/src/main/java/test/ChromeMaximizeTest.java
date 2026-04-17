@@ -20,7 +20,7 @@ import java.util.UUID;
 
 public class ChromeMaximizeTest {
 
-    private static final int RUNS = 10;
+    private static final int RUNS = 50;
 
     private static final String OPT_TEST_TYPE          = "test-type";
     private static final String OPT_IGNORE_CERT        = "ignore-certificate-errors";
