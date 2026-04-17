@@ -1,0 +1,316 @@
+=======================================================
+  Chrome Maximize Diagnostic  (50 runs)
+  Timestamp:      2026-04-17_11-33-19
+  Chrome binary:  (system default)
+  Chrome version: 147.0.7727.101
+  Driver version: 147.0.7727.57
+=======================================================
+
+--- Run  1 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 35ms
+
+--- Run  2 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 50ms
+
+--- Run  3 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run  4 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run  5 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 38ms
+
+--- Run  6 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run  7 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 37ms
+
+--- Run  8 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 37ms
+
+--- Run  9 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 38ms
+
+--- Run 10 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 39ms
+
+--- Run 11 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 45ms
+
+--- Run 12 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 13 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 50ms
+
+--- Run 14 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 47ms
+
+--- Run 15 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 16 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 41ms
+
+--- Run 17 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 18 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 32ms
+
+--- Run 19 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 20 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 21 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 38ms
+
+--- Run 22 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 23 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 39ms
+
+--- Run 24 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 43ms
+
+--- Run 25 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 26 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 39ms
+
+--- Run 27 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 28 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 43ms
+
+--- Run 29 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 30 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 31 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 44ms
+
+--- Run 32 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 44ms
+
+--- Run 33 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 35ms
+
+--- Run 34 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 35 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 41ms
+
+--- Run 36 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 31ms
+
+--- Run 37 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 38 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 51ms
+
+--- Run 39 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 53ms
+
+--- Run 40 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 41 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 48ms
+
+--- Run 42 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 43 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 44 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 45 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 51ms
+
+--- Run 46 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 31ms
+
+--- Run 47 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 41ms
+
+--- Run 48 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+--- Run 49 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() PASS in 38ms
+
+--- Run 50 / 50 ---
+  ChromeDriver created
+  Cookies cleared
+  maximize() FAIL: unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+=======================================================
+  RESULTS SUMMARY
+  Chrome 147.0.7727.101  |  Driver 147.0.7727.57
+=======================================================
+Run  1: PASS
+Run  2: PASS
+Run  3: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run  4: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run  5: PASS
+Run  6: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run  7: PASS
+Run  8: PASS
+Run  9: PASS
+Run 10: PASS
+Run 11: PASS
+Run 12: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 13: PASS
+Run 14: PASS
+Run 15: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 16: PASS
+Run 17: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 18: PASS
+Run 19: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 20: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 21: PASS
+Run 22: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 23: PASS
+Run 24: PASS
+Run 25: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 26: PASS
+Run 27: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 28: PASS
+Run 29: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 30: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 31: PASS
+Run 32: PASS
+Run 33: PASS
+Run 34: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 35: PASS
+Run 36: PASS
+Run 37: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 38: PASS
+Run 39: PASS
+Run 40: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 41: PASS
+Run 42: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 43: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 44: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 45: PASS
+Run 46: PASS
+Run 47: PASS
+Run 48: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+Run 49: PASS
+Run 50: FAIL  -- unknown error: unhandled inspector error: {"code":-32000,"message":"Browser window not found"}
+
+  PASSED: 29 / 50
+  FAILED: 21 / 50
+=======================================================
